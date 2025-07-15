@@ -1,6 +1,11 @@
 
 # API Integration and Data Visualization
 
+COMPANY - CODTECH IT SOLUTIONS
+NAME - ARPITA ASHK
+INTERN ID: CT04DH2171
+DURATION : 4 WEEKS
+MENTOR :NEELA SANTOSH 
 
 This project demonstrates how to use Python to fetch data from a public API and visualize it using powerful data visualization libraries. The goal is to understand how API integration works and present the retrieved data in a meaningful graphical format.
 
