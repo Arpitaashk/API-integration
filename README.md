@@ -6,7 +6,7 @@ This project demonstrates basic API integration using Python. It makes an HTTP G
 
 Project Overview
 
-The script connects to a **placeholder JSON API** and retrieves data (in this case, details about posts). It can be easily modified to fetch data from other APIs with little effort.
+The script connects to a **placeholder JSON API** and retrieves data (in this case, details about posts). It can be easily modified to fetch data from other APIs with little effort. 
 
 
 
