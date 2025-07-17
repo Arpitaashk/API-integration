@@ -1,19 +1,22 @@
+API Integration with Python
 
-# API Integration and Data Visualization
+This project demonstrates basic API integration using Python. It makes an HTTP GET request to a public API and displays structured data based on the response. The project showcases how to send requests, handle responses, and display output in a Python environment.
 
-COMPANY - CODTECH IT SOLUTIONS
-NAME - ARPITA ASHK
-INTERN ID: CT04DH2171
-DURATION : 4 WEEKS
-MENTOR :NEELA SANTOSH 
 
-This project demonstrates how to use Python to fetch data from a public API and visualize it using powerful data visualization libraries. The goal is to understand how API integration works and present the retrieved data in a meaningful graphical format.
 
----
+Project Overview
 
-## Task Objective
+The script connects to a **placeholder JSON API** and retrieves data (in this case, details about posts). It can be easily modified to fetch data from other APIs with little effort.
 
-- **Use Python** to fetch data from a public API (e.g., OpenWeatherMap).
-- **Visualize** the fetched data using **Matplotlib** and **Seaborn**.
-- **Deliverables**: A Python script and a visualization dashboard.
 
+
+Technologies Used
+
+- **Python 3**
+- `requests` – For sending HTTP requests
+- `json` – To handle and parse response data
+
+
+```
+git clone https://github.com/Arpitaashk/API-integration.git
+cd API-integration
